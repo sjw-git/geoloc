@@ -1,329 +1,221 @@
 {
-  "translation": {
-    "en": {
-    "i18nError": "<span class='i18nError'>Translation key not found: {key} - {locale}</span>",
-    "nav": {
-      "about": {
-        "title": "About"
-      },
-      "distance": {
-        "title": "Airport distance"
-      },
-      "home": {
-        "title": "Home"
-      },
-      "info": {
-        "title": "Airport info"
-      },
-      "lang": {
-        "alt": "Français",
-        "title": "Changer en français"
-      },
-      "list": {
-        "title": "Airports list"
-      },
-      "nearest": {
-        "title": "Nearest airport"
-      },
-      "secure": {
-        "title": "Secured area"
-      },
-      "user": {
-        "greeting": "Welcome {username}&nbsp;!",
-        "logout": "(Sign out)"
-      },
-      "login": {
-        "title": "Login"
-      }    
-    },
-    "pages": {
-      "about": {
-        "mainContent": "<p>Spicy jalapeno bacon ipsum dolor amet ribeye est lorem, pariatur veniam pork culpa tri-tip magna. Velit dolor kielbasa est chuck. Strip steak turkey sunt tongue bacon ullamco in ribeye enim lorem magna labore short loin corned beef elit.</p>\n\n<p>Biltong consectetur incididunt bresaola leberkas t-bone. Ball tip ut chislic corned beef pork picanha kevin kielbasa. Excepteur t-bone fugiat prosciutto cupidatat proident velit tri-tip short ribs burgdoggen turducken sunt tenderloin pancetta laboris. Id venison brisket ex elit proident, pariatur chicken filet mignon in strip steak.</p>",
-        "subtitle": "ABOUT THE SPA'S IW MODULE CONFIGURATION",
-        "title": "ABOUT"
-      },
-      "distance": {
-        "buttonLbl": "Calculate",
-        "error": "We could not find matching airports.",
-        "inputFromLbl": "From Airport",
-        "inputToLbl": "To Airport",
-        "invalid": "You have to enter a valid airport code (3 letters).",
-        "resultText": "The distance between {from} and {to} is <span class=\"bold\">{distance} km. </span>",
-        "results": "Results",
-        "title": "CALCULATE AIRPORTS DISTANCE"
-      },
-      "home": {
-        "greeting": "<b>Welcome</b><br />to the Geoloc demo!"
-      },
-      "info": {
-        "buttonLbl": "Get airport info",
-        "error": "We could not find this airport.",
-        "inputLbl": "Airport code",
-        "invalid": "You have to enter a valid airport code (3 letters).",
-        "results": "Results",
-        "title": "Airport info"
-      },
-      "list": {
-        "buttonLbl": "Get Airports List",
-        "error": "We could not find a matching airport for your search.",
-        "found": "{nbFound} airport(s) found",
-        "inputCountryLbl": "Country",
-        "inputHasACServiceLbl": "Serviced By AC",
-        "inputHasACVServiceLbl": "Serviced By ACV",
-        "options": {
-          "false": "False",
-          "true": "True"
-        },
-        "results": "Results",
-        "timeout": "The request timed out. Please refine your search and try again.",
-        "title": "AIRPORT LISTS"
-      },
-      "login": {
-        "error": "Missing state or code. Not sure what you did wrong but you are stuck here with me!",
-        "invalid": "Invalid state. Go away!",
-        "title": "Login in progress..."
-      },
-      "logout": {
-        "title": "Logout in progress..."
-      },
-      "nearest": {
-        "buttonLbl": "Get Nearest Airport",
-        "error": "We could not find matching airport.",
-        "inputCountryLbl": "Country",
-        "inputHasACServiceLbl": "Serviced By AC",
-        "inputHasACVServiceLbl": "Serviced By ACV",
-        "inputLatLbl": "Latitude",
-        "inputLongLbl": "Longitude",
-        "invalid": "Longitude and latitude are required.",
-        "options": {
-          "false": "False",
-          "true": "True"
-        },
-        "results": "Results",
-        "title": "CALCULATE NEAREST AIRPORT"
-      },
-      "secure": {
-        "title": "USER INFORMATION"
-      }
-      }
-    },
-    
-    "fr":{
-        "i18nError": "<span class='i18nError'>Clé de traduction introuvable: {key} - {locale}</span>",
-        "nav": {
+    "translation": {
+      "en": {
+      "i18nError": "<span class='i18nError'>Translation key not found: {key} - {locale}</span>",
+      "nav": {
         "about": {
-            "title": "À propos"
+          "title": "About"
         },
         "distance": {
-            "title": "Distance aéroport"
+          "title": "Airport distance"
         },
         "home": {
-            "title": "Accueil"
+          "title": "Home"
         },
         "info": {
-            "title": "Info aéroport"
+          "title": "Airport info"
         },
         "lang": {
-            "alt": "Deutsch",
-            "title": "Auf Deutsch wechseln"     
+          "alt": "Français",
+          "title": "Changer en français"
         },
         "list": {
-            "title": "Liste aéroports"
+          "title": "Airports list"
         },
         "nearest": {
-            "title": "Aéroport proche"
+          "title": "Nearest airport"
         },
         "secure": {
-            "title": "Zone restreinte"
+          "title": "Secured area"
         },
         "user": {
-            "greeting": "Bienvenue {username}&nbsp;!",
-            "logout": "(Déconnexion)"
+          "greeting": "Welcome {username}&nbsp;!",
+          "logout": "(Sign out)"
         },
         "login": {
-            "title": "Connexion"
-        }     
-        },
-        "pages": {
-        "about": {
-            "mainContent": "<p>Bacon jalapeno épicé ipsum dolor amet ribeye est lorem, pariatur veniam pork culpa tri-tip magna. Velit dolor kielbasa est chuck. Entrecôte de dinde sunt langue bacon ullamco en faux-filet enim lorem magna labore élite de bœuf salé à longe courte.</p>\n\n<p>Biltong consectetur incididunt bresaola leberkas t-bone. Ball Tip Ut Chislic Corned Beef Porc Picanha Kevin Kielbasa. Excepteur t-bone fugiat prosciutto cupidatat proident velit tri-tip côtes courtes burgdoggen turducken sunt filet de porc pancetta laboris. Id poitrine de chevreuil ex elit proident, pariatur poulet filet mignon en strip steak.</p>",
-            "subtitle": "À PROPOS DE LA CONFIGURATION DU MODULE IW DE LA SPA",
-            "title": "À PROPOS"
-        },
-        "distance": {
-            "buttonLbl": "Calculer",
-            "error": "Nous n'avons pas trouvé d'aéroports correspondants.",
-            "inputFromLbl": "De l'aéroport",
-            "inputToLbl": "À l'aéroport",
-            "invalid": "Vous devez entrer un code d'aéroport valide (3 lettres).",
-            "resultText": "La distance entre {from} et {to} est de <span class=\"bold\">{distance} km. </span>",
-            "results": "Résultats",
-            "title": "DISTANCE DES AÉROPORTS"
-        },
-        "home": {
-            "greeting": "<b>Bienvenue</b><br />à la démo de GeoLoc!"
-        },
-        "info": {
-            "buttonLbl": "Obtenir les infos",
-            "error": "Nous n'avons pas trouvé cet aéroport.",
-            "inputLbl": "Code d'aéroport",
-            "invalid": "Vous devez entrer un code d'aéroport valide (3 lettres).",
-            "results": "Résultats",
-            "title": "Info aéroport"
-        },
-        "list": {
-            "buttonLbl": "Obtenir la liste",
-            "error": "Nous n'avons pas trouvé d'aéroport pour votre recherche.",
-            "found": "{nbFound} aéroport(s) trouvé(s)",
-            "inputCountryLbl": "Pays",
-            "inputHasACServiceLbl": "Desservi par AC",
-            "inputHasACVServiceLbl": "Desservi par VAC",
-            "options": {
-            "false": "Non",
-            "true": "Oui"
-            },
-            "results": "Résultats",
-            "timeout": "La demande a expiré. Veuillez affiner votre recherche et réessayer.",
-            "title": "LISTE D'AÉROPORTS"
-        },
-        "login": {
-            "error": "État ou code manquant. Je ne sais pas ce que vous avez mal fait, mais vous êtes coincé ici avec moi!",
-            "invalid": "État non valide. Va-t'en!",
-            "title": "Connexion en cours..."
-        },
-        "logout": {
-            "title": "Déconnexion en cours..."
-        },
-        "nearest": {
-            "buttonLbl": "Aéroport le plus proche",
-            "error": "Nous n'avons pas trouvé d'aéroport correspondant.",
-            "inputCountryLbl": "Pays",
-            "inputHasACServiceLbl": "Desservi par AC",
-            "inputHasACVServiceLbl": "Desservi par VAC",
-            "inputLatLbl": "Latitude",
-            "inputLongLbl": "Longitude",
-            "invalid": "Les longitude et latitude sont requises.",
-            "options": {
-            "false": "Non",
-            "true": "Oui"
-            },
-            "results": "Résultats",
-            "title": "AÉROPORT LE PLUS PROCHE"
-        },
-        "secure": {
-            "title": "INFORMATIONS UTILISATEUR"
-        }
-        }
-    },
-    
-    "de": {
-        "i18nError": "<span class='i18nError'>Übersetzungsschlüssel nicht gefunden: {key} - {locale}</span>",
-        "nav": {
-        "about": {
-            "title": "Über"
-        },
-        "distance": {
-            "title": "Flughafenentfernung"
-        },
-        "home": {
-            "title": "Zuhause"
-        },
-        "info": {
-            "title": "Flughafeninfo"
-        },
-        "lang": {
-            "alt": "English",
-            "title": "Switch to English"
-        },
-        "list": {
-            "title": "Flughafenliste"
-        },
-        "nearest": {
-            "title": "Nächster Flughafen"
-        },
-        "secure": {
-            "title": "Gesicherter Bereich"
-        },
-        "user": {
-            "greeting": "Willkommen {username}&nbsp;!",
-            "logout": "(Abmelden)"
-        },
-        "login": {
-            "title": "Anmelden"
+          "title": "Login"
         }    
-        },
-        "pages": {
+      },
+      "pages": {
         "about": {
-            "mainContent": "<p>Scharfer Jalapeno-Speck ipsum dolor amet ribeye est lorem, pariatur veniam pork culpa tri-tip magna. Velit dolor kielbasa est chuck. Putensteak mit brauner Zunge Speck ullamco in ribeye enim lorem magna labored beefloin elit.</p>\n\n<p>Biltong consectetur incididunt bresaola leberkas t-bone. Kugelspitze ut chislic Corned Beef Schweinefleisch Picanha Kevin Kielbasa. Excepteur t-bone fugiat Prosciutto cupidatat proident velitcken tri-tip kurze ribs Rinderfilet pancetta laboris. Id Rehbrust ex elit proident, Hähnchenfilet Mignon pariatur in Streifensteak.</p>",
-            "subtitle": "ÜBER DIE IW-MODULKONFIGURATION DES SPA",
-            "title": "ÜBER"
+          "mainContent": "<p>Spicy jalapeno bacon ipsum dolor amet ribeye est lorem, pariatur veniam pork culpa tri-tip magna. Velit dolor kielbasa est chuck. Strip steak turkey sunt tongue bacon ullamco in ribeye enim lorem magna labore short loin corned beef elit.</p>\n\n<p>Biltong consectetur incididunt bresaola leberkas t-bone. Ball tip ut chislic corned beef pork picanha kevin kielbasa. Excepteur t-bone fugiat prosciutto cupidatat proident velit tri-tip short ribs burgdoggen turducken sunt tenderloin pancetta laboris. Id venison brisket ex elit proident, pariatur chicken filet mignon in strip steak.</p>",
+          "subtitle": "ABOUT THE SPA'S IW MODULE CONFIGURATION",
+          "title": "ABOUT"
         },
         "distance": {
-            "buttonLbl": "Berechnen",
-            "error": "Wir konnten keine passenden Flughäfen finden.",
-            "inputFromLbl": "Vom Flughafen",
-            "inputToLbl": "Zum Flughafen",
-            "invalid": "Sie müssen einen gültigen Flughafencode (3 Buchstaben) eingeben.",
-            "resultText": "Die Entfernung zwischen {from} und {to} beträgt <span class=\"bold\">{distance} km. </span>",
-            "results": "Ergebnisse",
-            "title": "ABSTAND VON FLUGHÄFEN BERECHNEN"
+          "buttonLbl": "Calculate",
+          "error": "We could not find matching airports.",
+          "inputFromLbl": "From Airport",
+          "inputToLbl": "To Airport",
+          "invalid": "You have to enter a valid airport code (3 letters).",
+          "resultText": "The distance between {from} and {to} is <span class=\"bold\">{distance} km. </span>",
+          "results": "Results",
+          "title": "CALCULATE AIRPORTS DISTANCE"
         },
         "home": {
-            "greeting": "<b>Willkommen</b><br />zur Geoloc-Demo!"
+          "greeting": "<b>Welcome</b><br />to the Geoloc demo!"
         },
         "info": {
-            "buttonLbl": "Flughafeninfo abrufen",
-            "error": "Wir konnten diesen Flughafen nicht finden.",
-            "inputLbl": "Flughafencode",
-            "invalid": "Sie müssen einen gültigen Flughafencode (3 Buchstaben) eingeben.",
-            "results": "Ergebnisse",
-            "title": "Flughafeninfo"
+          "buttonLbl": "Get airport info",
+          "error": "We could not find this airport.",
+          "inputLbl": "Airport code",
+          "invalid": "You have to enter a valid airport code (3 letters).",
+          "results": "Results",
+          "title": "Airport info"
         },
         "list": {
-            "buttonLbl": "Flughafenliste abrufen",
-            "error": "Wir konnten keinen passenden Flughafen für Ihre Suche finden.",
-            "found": "{nbFound} Flughafen(e) gefunden",
-            "inputCountryLbl": "Land",
-            "inputHasACServiceLbl": "Von AC gewartet",
-            "inputHasACVServiceLbl": "Von ACV gewartet",
-            "options": {
-            "false": "Falsch",
-            "true": "Wahr"
-            },
-            "results": "Ergebnisse",
-            "timeout": "Zeitüberschreitung bei der Anfrage. Bitte verfeinern Sie Ihre Suche und versuchen Sie es erneut.",
-            "title": "FLUGHAFENLISTEN"
+          "buttonLbl": "Get Airports List",
+          "error": "We could not find a matching airport for your search.",
+          "found": "{nbFound} airport(s) found",
+          "inputCountryLbl": "Country",
+          "inputHasACServiceLbl": "Serviced By AC",
+          "inputHasACVServiceLbl": "Serviced By ACV",
+          "options": {
+            "false": "False",
+            "true": "True"
+          },
+          "results": "Results",
+          "timeout": "The request timed out. Please refine your search and try again.",
+          "title": "AIRPORT LISTS"
         },
         "login": {
-            "error": "Fehlender Status oder Code. Nicht sicher, was Sie falsch gemacht haben, aber Sie stecken hier bei mir fest!",
-            "invalid": "Ungültiger Status. Geh weg!",
-            "title": "Anmeldung läuft..."
+          "error": "Missing state or code. Not sure what you did wrong but you are stuck here with me!",
+          "invalid": "Invalid state. Go away!",
+          "title": "Login in progress..."
         },
         "logout": {
-            "title": "Abmeldung läuft..."
+          "title": "Logout in progress..."
         },
         "nearest": {
-            "buttonLbl": "Nächsten Flughafen erhalten",
-            "error": "Wir konnten keinen passenden Flughafen finden.",
-            "inputCountryLbl": "Land",
-            "inputHasACServiceLbl": "Von AC gewartet",
-            "inputHasACVServiceLbl": "Von ACV gewartet",
-            "inputLatLbl": "Breitengrad",
-            "inputLongLbl": "Längengrad",
-            "invalid": "Längen- und Breitengrad sind erforderlich.",
-            "options": {
-            "false":"Falsch",
-            "true": "Wahr"
-            },
-            "results": "Ergebnisse",
-            "title": "NÄCHSTER FLUGHAFEN BERECHNEN"
+          "buttonLbl": "Get Nearest Airport",
+          "error": "We could not find matching airport.",
+          "inputCountryLbl": "Country",
+          "inputHasACServiceLbl": "Serviced By AC",
+          "inputHasACVServiceLbl": "Serviced By ACV",
+          "inputLatLbl": "Latitude",
+          "inputLongLbl": "Longitude",
+          "invalid": "Longitude and latitude are required.",
+          "options": {
+            "false": "False",
+            "true": "True"
+          },
+          "results": "Results",
+          "title": "CALCULATE NEAREST AIRPORT"
         },
         "secure": {
-            "title": "BENUTZERINFORMATIONEN"
+          "title": "USER INFORMATION"
         }
         }
-    }    
+      },
+      
+      "fr":{
+          "i18nError": "<span class='i18nError'>Clé de traduction introuvable: {key} - {locale}</span>",
+          "nav": {
+          "about": {
+              "title": "À propos"
+          },
+          "distance": {
+              "title": "Distance aéroport"
+          },
+          "home": {
+              "title": "Accueil"
+          },
+          "info": {
+              "title": "Info aéroport"
+          },
+          "lang": {
+              "alt": "Deutsch",
+              "title": "Auf Deutsch wechseln"     
+          },
+          "list": {
+              "title": "Liste aéroports"
+          },
+          "nearest": {
+              "title": "Aéroport proche"
+          },
+          "secure": {
+              "title": "Zone restreinte"
+          },
+          "user": {
+              "greeting": "Bienvenue {username}&nbsp;!",
+              "logout": "(Déconnexion)"
+          },
+          "login": {
+              "title": "Connexion"
+          }     
+          },
+          "pages": {
+          "about": {
+              "mainContent": "<p>Bacon jalapeno épicé ipsum dolor amet ribeye est lorem, pariatur veniam pork culpa tri-tip magna. Velit dolor kielbasa est chuck. Entrecôte de dinde sunt langue bacon ullamco en faux-filet enim lorem magna labore élite de bœuf salé à longe courte.</p>\n\n<p>Biltong consectetur incididunt bresaola leberkas t-bone. Ball Tip Ut Chislic Corned Beef Porc Picanha Kevin Kielbasa. Excepteur t-bone fugiat prosciutto cupidatat proident velit tri-tip côtes courtes burgdoggen turducken sunt filet de porc pancetta laboris. Id poitrine de chevreuil ex elit proident, pariatur poulet filet mignon en strip steak.</p>",
+              "subtitle": "À PROPOS DE LA CONFIGURATION DU MODULE IW DE LA SPA",
+              "title": "À PROPOS"
+          },
+          "distance": {
+              "buttonLbl": "Calculer",
+              "error": "Nous n'avons pas trouvé d'aéroports correspondants.",
+              "inputFromLbl": "De l'aéroport",
+              "inputToLbl": "À l'aéroport",
+              "invalid": "Vous devez entrer un code d'aéroport valide (3 lettres).",
+              "resultText": "La distance entre {from} et {to} est de <span class=\"bold\">{distance} km. </span>",
+              "results": "Résultats",
+              "title": "DISTANCE DES AÉROPORTS"
+          },
+          "home": {
+              "greeting": "<b>Bienvenue</b><br />à la démo de GeoLoc!"
+          },
+          "info": {
+              "buttonLbl": "Obtenir les infos",
+              "error": "Nous n'avons pas trouvé cet aéroport.",
+              "inputLbl": "Code d'aéroport",
+              "invalid": "Vous devez entrer un code d'aéroport valide (3 lettres).",
+              "results": "Résultats",
+              "title": "Info aéroport"
+          },
+          "list": {
+              "buttonLbl": "Obtenir la liste",
+              "error": "Nous n'avons pas trouvé d'aéroport pour votre recherche.",
+              "found": "{nbFound} aéroport(s) trouvé(s)",
+              "inputCountryLbl": "Pays",
+              "inputHasACServiceLbl": "Desservi par AC",
+              "inputHasACVServiceLbl": "Desservi par VAC",
+              "options": {
+              "false": "Non",
+              "true": "Oui"
+              },
+              "results": "Résultats",
+              "timeout": "La demande a expiré. Veuillez affiner votre recherche et réessayer.",
+              "title": "LISTE D'AÉROPORTS"
+          },
+          "login": {
+              "error": "État ou code manquant. Je ne sais pas ce que vous avez mal fait, mais vous êtes coincé ici avec moi!",
+              "invalid": "État non valide. Va-t'en!",
+              "title": "Connexion en cours..."
+          },
+          "logout": {
+              "title": "Déconnexion en cours..."
+          },
+          "nearest": {
+              "buttonLbl": "Aéroport le plus proche",
+              "error": "Nous n'avons pas trouvé d'aéroport correspondant.",
+              "inputCountryLbl": "Pays",
+              "inputHasACServiceLbl": "Desservi par AC",
+              "inputHasACVServiceLbl": "Desservi par VAC",
+              "inputLatLbl": "Latitude",
+              "inputLongLbl": "Longitude",
+              "invalid": "Les longitude et latitude sont requises.",
+              "options": {
+              "false": "Non",
+              "true": "Oui"
+              },
+              "results": "Résultats",
+              "title": "AÉROPORT LE PLUS PROCHE"
+          },
+          "secure": {
+              "title": "INFORMATIONS UTILISATEUR"
+          }
+          }
+      }  
+    
+    }
   
   }
-
-}
