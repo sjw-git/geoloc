@@ -214,7 +214,45 @@
               "title": "INFORMATIONS UTILISATEUR"
           }
           }
-      }  
+      },
+        
+    "de": {
+        "i18nError": "<span class='i18nError'>Übersetzungsschlüssel nicht gefunden: {key} - {locale}</span>",
+        "nav": {
+          "about": {
+            "title": "Über"
+          },
+          "distance": {
+            "title": "Flughafenentfernung"
+          },
+          "home": {
+            "title": "Zuhause"
+          },
+          "info": {
+            "title": "Flughafeninfo"
+          },
+          "lang": {
+            "alt": "English",
+            "title": "Switch to English"
+          },
+          "list": {
+            "title": "Flughafenliste"
+          },
+          "nearest": {
+            "title": "Nächster Flughafen"
+          },
+          "secure": {
+            "title": "Gesicherter Bereich"
+          },
+          "user": {
+            "greeting": "Willkommen {username}&nbsp;!",
+            "logout": "(Abmelden)"
+          },
+          "login": {
+            "title": "Anmelden"
+          }    
+        }
+      }        
     
     }
   
